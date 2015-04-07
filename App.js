@@ -26,9 +26,22 @@ var App = React.createClass({
 
     render() {
 
-        return(
-            <Home />
+        // return(
+        //     <Home />
+        // );
+
+        return (
+          <NavigatorIOS
+            style={{flex : 1,backgroundColor: '#000000'}}
+            tintColor='#cccccc'
+            barTintColor='#cccccc'
+            initialRoute={{
+              title: '天猫电器城',
+              component: Home,
+            }}/>
         );
+
+        
     }
 });
 

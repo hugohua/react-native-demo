@@ -104,7 +104,7 @@ module.exports = React.createClass({
 					
 					<View style={styles.goodInfo}>
 
-						<Text style={styles.goodTit}>{item.txt}</Text>
+						<Text style={styles.goodTit} numberOfLines={2}>{item.txt}</Text>
 
 						<View style={styles.goodRow}>
 							<Text style={styles.nPrice}><Text style={styles.yen}>&yen;</Text> {item.orderprice || item.price}</Text>

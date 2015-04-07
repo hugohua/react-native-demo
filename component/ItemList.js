@@ -81,7 +81,7 @@ module.exports = React.createClass({
           );
         };
         return(
-          <ListView
+          <ListView contentInset={{top: -64}}
             dataSource={this.state.dataSource}
             renderRow={this.renderRow}
             style={styles.listView}/>

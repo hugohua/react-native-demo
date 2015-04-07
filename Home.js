@@ -64,7 +64,7 @@ module.exports =  React.createClass({
         var cateId = this.state.cateId;
         return (
             <View style={{flex : 1}}>
-                {this.renderHeader()}
+                {/*{this.renderHeader()}*/}
                 <ScrollView stickyHeaderIndices={[4]} >
                     <CloverSlider />
                     <Cat />

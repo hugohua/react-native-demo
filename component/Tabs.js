@@ -100,7 +100,7 @@ module.exports = React.createClass({
     //默认值
     getDefaultProps() {
         return {
-            api : 'http://www.tmall.com/go/rgn/3c/wh-fp-m-index-teh.php'
+            api : 'http://www.tmall.com/go/rgn/3c/wh-fp-m-index-teh.php?1'
         }
     },
 
@@ -114,6 +114,7 @@ module.exports = React.createClass({
 
     //只调用一次，在render之后调用
     componentDidMount() {
+        console.log('componentDidMount')
         this.fetchData();
     },
 
@@ -122,6 +123,7 @@ module.exports = React.createClass({
         fetch(this.props.api)
             .then((response) => response.json())
             .then((responseData) => {
+                console.log(responseData,'responseData')
                 //插入第一个“全部”tab
                 responseData.list.unshift({
                     code : 0,
@@ -182,10 +184,11 @@ module.exports = React.createClass({
 
     render() {
         var data = this.state.dataSource || [];
+        console.log(data);
         // <View style={{height : 1000,width : 375, backgroundColor : '#eeeeee', position : 'absolute', top : 0, left : 0}}></View>
         return (
             <View style={{flex : 1,flexDirection : 'row'}}>
-                <ScrollView ref="scrollView" showsHorizontalScrollIndicator={false} style={styles.tabContainer} contentContainerStyle={styles.contentStyle} horizontal={true}>                 
+                <ScrollView ref="scrollView" contentInset={{top: -64}} showsHorizontalScrollIndicator={false} style={styles.tabContainer} contentContainerStyle={styles.contentStyle} horizontal={true}>                 
                     {this.renderItems(data)}
                 </ScrollView>
                 <TouchableOpacity  onPress={() => this.handleOpenTabs()}>

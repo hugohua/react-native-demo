@@ -65,16 +65,6 @@ react-native(rn)中使用`flex`来布局，目前使用来看，配合`positon :
 
 `positon : 'absolute'`定位方式是相对于父级元素，不管父级是否具有`relative`。
 
-缺少一些常用的css属性，如中划线及截断省略号.
-
-h5页面：
-
-![image](http://img3.tbcdn.cn/5476e8b07b923/TB1V7AFHpXXXXaSXpXXXXXXXXXX)
-
-rg页面：
-
-![image](http://img3.tbcdn.cn/5476e8b07b923/TB1IkkAHpXXXXcCXVXXXXXXXXXX)
-
 
 ## 最终效果图
 
