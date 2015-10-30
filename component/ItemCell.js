@@ -95,12 +95,12 @@ module.exports = React.createClass({
 
 	render() {
 		var item = this.props.item;
-		// console.log(this.props)
+		console.log(this.props)
 		return (
 			<TouchableOpacity onPress={this.props.onSelect}>
 				<View style={styles.container}>
 				
-					<Image style={styles.goodImg} source={{uri : item.img}} />
+					<Image style={styles.goodImg} source={{uri : 'http:' + item.img}} />
 					
 					<View style={styles.goodInfo}>
 
