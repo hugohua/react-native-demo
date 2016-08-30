@@ -126,7 +126,7 @@ module.exports = React.createClass({
 
         return data.map(function(item,i){
             return(
-                <Image key={i} style={{width: width,height:itemHeight}} source={{uri: 'http:' + item.img + picFormat}}/>
+                <Image key={i} style={{width: width,height:itemHeight}} source={{uri: item.img + picFormat}}/>
             );
         })
     },
