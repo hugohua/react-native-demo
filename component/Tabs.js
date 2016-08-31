@@ -100,7 +100,8 @@ module.exports = React.createClass({
     //默认值
     getDefaultProps() {
         return {
-            api : 'http://www.tmall.com/go/rgn/3c/wh-fp-m-index-teh.php?1'
+            //url的mock数据在项目根目录data.json
+            api : 'https://pages.tmall.com/wow/tmall-3c/act/3294839430594'
         }
     },
 

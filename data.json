@@ -1,0 +1,94 @@
+{
+    "list": [
+        {
+            "code": "2",
+            "name": "热门手机",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%CA%D6%BB%FA&aldid=390589&spm=a220m.1000858.a2227oh.d100&from=.list.pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1440626221122_390589&pos=1",
+            "icon": ""
+        },
+        {
+            "code": "5",
+            "name": "平板电视",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%C6%BD%B0%E5%B5%E7%CA%D3&aldid=390589&spm=a220m.1000858.a2227oh.d100&from=.list.pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1439982692636_390589&pos=2",
+            "icon": ""
+        },
+        {
+            "code": "1",
+            "name": "厨房电器",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%B3%F8%B7%BF%B5%E7%C6%F7&vmarket=72&aldid=390589&spm=141.3067357.a2227oh.d100&from=3c..pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1441510711164_390589&pos=3",
+            "icon": ""
+        },
+        {
+            "code": "6",
+            "name": "冰箱",
+            "link": "//list.tmall.com/search_product.htm?user_action=initiative&at_topsearch=1&cat=all&abbucket=&sort=st&acm=lb-tms-1261802-40482.1003.8.390589&vmarket=72&aldid=390589&type=p&pos=4&q=%B1%F9%CF%E4&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1442617214655_390589",
+            "icon": ""
+        },
+        {
+            "code": "3",
+            "name": "个人护理",
+            "link": "//list.tmall.com/search_product.htm?cat=50616008&abbucket=&sort=s&style=g&acm=lb-tms-1261802-40482.1003.8.390589&q=%B8%F6%C8%CB%BB%A4%C0%ED&aldid=390589&spm=a220m.1000858.1000721.5.ylKoH9&from=sn_1_cat-qp&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1439677861647_390589&pos=5#J_crumbs",
+            "icon": ""
+        },
+        {
+            "code": "16",
+            "name": "台式机",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%CC%A8%CA%BD%BB%FA&aldid=390589&spm=a220o.0.a2227oh.d100&from=3c.detail.pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1440519393624_390589&pos=6",
+            "icon": ""
+        },
+        {
+            "code": "9",
+            "name": "平板/笔记本",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%C6%BD%B0%E5%B5%E7%C4%D4&vmarket=72&aldid=390589&spm=141.3067357.a2227oh.d100&from=3c..pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1441151383632_390589&pos=7",
+            "icon": ""
+        },
+        {
+            "code": "17",
+            "name": "空调",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%BF%D5%B5%F7&aldid=390589&spm=a220o.0.a2227oh.d100&from=3c.detail.pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1443134529942_390589&pos=8",
+            "icon": ""
+        },
+        {
+            "code": "12",
+            "name": "洗衣机",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%CF%B4%D2%C2%BB%FA&aldid=390589&spm=a220m.1000858.a2227oh.d100&from=.list.pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1443077113273_390589&pos=9",
+            "icon": ""
+        },
+        {
+            "code": "8",
+            "name": "家居清洁",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%C9%A8%B5%D8%BB%FA&vmarket=72&aldid=390589&spm=141.3067357.a2227oh.d100&from=3c..pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1441146738778_390589&pos=10",
+            "icon": ""
+        },
+        {
+            "code": "10",
+            "name": "数码配件",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%CA%FD%C2%EB%C5%E4%BC%FE&aldid=390589&spm=a220m.1000858.a2227oh.d100&from=.list.pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1440710622255_390589&pos=11",
+            "icon": ""
+        },
+        {
+            "code": "7",
+            "name": "耳机音响",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%B6%FA%BB%FA&vmarket=72&aldid=390589&spm=141.3067357.a2227oh.d100&from=3c..pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1440862215527_390589&pos=12",
+            "icon": ""
+        },
+        {
+            "code": "14",
+            "name": "数码相机",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%CA%FD%C2%EB%CF%E0%BB%FA&aldid=390589&spm=a220m.1000858.a2227oh.d100&from=.list.pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1442855463366_390589&pos=13",
+            "icon": ""
+        },
+        {
+            "code": "20",
+            "name": "烟灶/热水器",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%C8%C8%CB%AE%C6%F7&aldid=390589&spm=a220m.1000858.a2227oh.d100&from=.list.pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1439534654722_390589&pos=14",
+            "icon": ""
+        },
+        {
+            "code": "13",
+            "name": "办公文教",
+            "link": "//list.tmall.com/search_product.htm?abbucket=&acm=lb-tms-1261802-40482.1003.8.390589&q=%D1%A7%C9%FA%C6%BD%B0%E5&vmarket=72&aldid=390589&spm=141.3067357.a2227oh.d100&from=3c..pc_1_searchbutton&type=p&abtest=&scm=1003.8.lb-tms-1261802-40482.ITEM_1441244328603_390589&pos=15",
+            "icon": ""
+        }
+    ]
+}

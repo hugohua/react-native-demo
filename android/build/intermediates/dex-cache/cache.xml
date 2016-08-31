@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hugo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-e18e32bbbb182355d2252ea91ac307683d631c5c.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.5.0/bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a/okio-1.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/okio-1.5.0-54c0fab8eaa9858701423c41552ed9dbe3de5983.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/classes-2e3c0dde5d0be994232553bc422921d3441b5e48.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-9f86f3f21e8e4ac5b4506ea15f05a5160062b032.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-6a228cdf43cc199cfc8b0c67531ff84210ab3ed9.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd4c42401d36342901ac4280fb92a831f8007f3d">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/classes-b66f936f53e125dc18718405ff60f7fdc05c4c3c.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-29545ffc3b0a5fbf2f441ac3c48479787fb74b30.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.13.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5cf2e19782be86b2cc857dcec5bf6211457e7138">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/classes-0545a3b71c2c0f44474ae16c3e7abfe2094a095a.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-4c3031b7b2d1fd2201dc8926fe73f92436a9696e.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/classes-a33782bae9351257b0cea4301063c9e14ce1a65f.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-1a8be3f66fd5a3588ec5cc4e65a04a344601e72d.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.13.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-37bf7aacbc55f56985a6c9907eeff9dc5075102e.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d5fddbfc516e39dd74d776e5cca8b761721990b">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/classes-3454ae349695b782479bc3426f378fcd0b7dc4c3.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.3.3/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-c951bd2b1ee3b0f278879326287a222d24eb2273.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb9817e26186e1a267cdd14211742ecc793de32e">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/classes-393276084b2bc9ae62bddca0130326385874e55e.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-6c6708f716fff91667edc75eb554089a9a7b0a28.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c10091a128e47ed4ef804bd753c0f45745699756">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/classes-3c5bfe6bd37d4552ec48cd82684dd40414ec65d4.jar" />
+    </item>
+    <item
+        jar="/Users/hugo/github/react-native-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af0fe468c884e2d153cf564326b23b54ff0040ce">
+        <dex dex="/Users/hugo/github/react-native-demo/android/app/build/intermediates/pre-dexed/debug/classes-82b3636ebf05d6f222a4830320cf59e06f3267ea.jar" />
+    </item>
+
+</items>
